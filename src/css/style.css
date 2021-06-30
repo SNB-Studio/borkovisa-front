@@ -2847,6 +2847,9 @@ svg.logo path.logo_accent {
   .programs-cards .card {
     width: 100%;
   }
+  .index-reviews .index-reviews_inner {
+    background: #fff;
+  }
 }
 
 @media (max-width: 767.9px) {
